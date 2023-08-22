@@ -1,0 +1,12 @@
+npm init -y
+npm install express body-parser
+
+grade-calculator/
+├── controllers/
+│   └── gradeController.js
+├── models/
+│   └── gradeModel.js
+├── app.js
+└── README.md
+
+npm install -g nodemon
