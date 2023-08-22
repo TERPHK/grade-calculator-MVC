@@ -3,9 +3,9 @@ npm install express body-parser
 
 grade-calculator/
 ├── controllers/
-│   └── gradeController.js
+│   └── Controller.js
 ├── models/
-│   └── gradeModel.js
+│   └── Model.js
 ├── app.js
 └── README.md
 
